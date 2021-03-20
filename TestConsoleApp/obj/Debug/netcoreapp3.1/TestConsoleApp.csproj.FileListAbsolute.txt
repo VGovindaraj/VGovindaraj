@@ -1,0 +1,13 @@
+E:\GitHub\VGovindaraj\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.exe
+E:\GitHub\VGovindaraj\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.deps.json
+E:\GitHub\VGovindaraj\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.runtimeconfig.json
+E:\GitHub\VGovindaraj\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.runtimeconfig.dev.json
+E:\GitHub\VGovindaraj\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.dll
+E:\GitHub\VGovindaraj\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.pdb
+E:\GitHub\VGovindaraj\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.csprojAssemblyReference.cache
+E:\GitHub\VGovindaraj\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.AssemblyInfoInputs.cache
+E:\GitHub\VGovindaraj\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.AssemblyInfo.cs
+E:\GitHub\VGovindaraj\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.csproj.CoreCompileInputs.cache
+E:\GitHub\VGovindaraj\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.dll
+E:\GitHub\VGovindaraj\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.pdb
+E:\GitHub\VGovindaraj\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.genruntimeconfig.cache
